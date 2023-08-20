@@ -9,7 +9,7 @@
 
 ## 🚀 Skills
 
-- **Languages:** Python, C#, Dart, C
+- **Languages:** Python, C#, C
 - **Frameworks & Libraries:** Django, Unity, And a little bit of: (Flutter, TensorFlow, Keras, PyTorch)
 - **Tools & Technologies:** Git, Linux, Docker, Visual Studio Code, Jupyter Notebooks
 
@@ -29,9 +29,6 @@
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rubenhesselink&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
-
-
-![GitHub Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=rubenhesselink&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&area=true&hide_border=true)
 
 
 Don't hesitate to reach out! I look forward to connecting and collaborating with you. 😄
