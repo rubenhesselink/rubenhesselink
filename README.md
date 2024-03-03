@@ -1,29 +1,27 @@
-# Hi there, I'm Ruben Hesselink 👋
+# Hi there, I'm Ruben Hesselink
 
-## 🌟 About Me
+## About Me
 
-- 🙋‍♂️ I'm Ruben, a passionate and curious developer with a strong interest in AI, Game Development, Sports, and eSports.
-- 🎯 My goal is to combine my skills in programming and game development to create innovative and engaging experiences.
-- 🌱 I'm currently diving deep into Machine Learning (Python), Unity, Flutter, Linux, and Docker to sharpen my skills and broaden my horizons.
-- 💖 I love collaborating on projects, especially those involving Python, Django, and game development.
+- I'm Ruben, a curious developer with a strong interest in programming awesome projects.
+- I love collaborating on projects, especially those involving Python and Django.
 
-## 🚀 Skills
+## Skills
 
-- **Languages:** Python, C#, C
-- **Frameworks & Libraries:** Django, Unity, And a little bit of: (Flutter, TensorFlow, Keras, PyTorch)
+- **Languages:**
+  - **Proficient** Python (Main focus is **Django**)
+  - **Comfortable** C#, Java, HTML
+  - **Learning** Go, JavaScript, CSS
 - **Tools & Technologies:** Git, Linux, Docker, Visual Studio Code, Jupyter Notebooks
 
-## 📚 Currently Learning
+## Currently Learning
 
-- 🌟 Expanding my programming language knowledge with **JavaScript**, **Rust**, and **Golang**.
-- 🤖 Experimenting with **GPT-4 API** to harness the power of AI in my projects.
+- Expanding my programming language knowledge with **JavaScript**, **CSS**, and **Golang**.
+- Experimenting with **GPT-4 API**, **HTMX**, **AlpineJS**, **Tailwind** and **Docker**.
 
-## 🤝 Let's Collaborate!
+## Let's Collaborate!
+- You can reach me at: [ruben.hesselink.dev@gmail.com](mailto:ruben.hesselink.dev@gmail.com)
 
-- I'm always on the lookout for exciting new projects, so if you're working on something related to Python, Django, AI, or game development, don't hesitate to reach out!
-- 📫 You can reach me at: [rubenhesselink@outlook.com](mailto:rubenhesselink@outlook.com)
-
-## 📊 GitHub Stats
+## GitHub Stats
 
 ![Ruben's GitHub stats](https://github-readme-stats.vercel.app/api?username=rubenhesselink&show_icons=true&theme=radical)
 
