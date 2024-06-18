@@ -9,17 +9,20 @@
 
 - **Languages:**
   - **Proficient** Python (Main focus is **Django**)
-  - **Comfortable** C#, Java, HTML
-  - **Learning** Go, JavaScript, CSS
-- **Tools & Technologies:** Git, Linux, Docker, Visual Studio Code, Jupyter Notebooks
+  - **Comfortable** C#, Java, HTML, JavaScript, Lua
+  - **Learning** Go, CSS
+- **Tools & Technologies:** Git, Linux, Docker
 
 ## Currently Learning
 
-- Expanding my programming language knowledge with **JavaScript**, **CSS**, and **Golang**.
+- Expanding my programming language knowledge with **CSS**, and **Golang**.
 - Experimenting with **GPT-4 API**, **HTMX**, **AlpineJS**, **Tailwind** and **Docker**.
 
 ## Let's Collaborate!
 - You can reach me at: [ruben.hesselink.dev@gmail.com](mailto:ruben.hesselink.dev@gmail.com)
+
+## Currently maintaining
+- Django Template LSP
 
 ## GitHub Stats
 
